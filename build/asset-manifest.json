@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Project-Titan/static/css/main.4446d048.chunk.css",
+    "main.js": "/Project-Titan/static/js/main.0328465b.chunk.js",
+    "main.js.map": "/Project-Titan/static/js/main.0328465b.chunk.js.map",
+    "runtime-main.js": "/Project-Titan/static/js/runtime-main.d441c117.js",
+    "runtime-main.js.map": "/Project-Titan/static/js/runtime-main.d441c117.js.map",
+    "static/js/2.3b3f77a9.chunk.js": "/Project-Titan/static/js/2.3b3f77a9.chunk.js",
+    "static/js/2.3b3f77a9.chunk.js.map": "/Project-Titan/static/js/2.3b3f77a9.chunk.js.map",
+    "index.html": "/Project-Titan/index.html",
+    "precache-manifest.df36b52e8383a7dc4931c445bf4c89c4.js": "/Project-Titan/precache-manifest.df36b52e8383a7dc4931c445bf4c89c4.js",
+    "service-worker.js": "/Project-Titan/service-worker.js",
+    "static/css/main.4446d048.chunk.css.map": "/Project-Titan/static/css/main.4446d048.chunk.css.map",
+    "static/js/2.3b3f77a9.chunk.js.LICENSE.txt": "/Project-Titan/static/js/2.3b3f77a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d441c117.js",
+    "static/js/2.3b3f77a9.chunk.js",
+    "static/css/main.4446d048.chunk.css",
+    "static/js/main.0328465b.chunk.js"
+  ]
+}
